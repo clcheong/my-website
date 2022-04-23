@@ -489,6 +489,8 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border-radius:6px;
+  box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
 }
 .portfolio .portfolio-wrap::before {
   content: "";
